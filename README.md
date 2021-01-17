@@ -1,4 +1,4 @@
-# location_service_bfetch
+# Simple Background Location Tracker
 
 A new Flutter project.
 
